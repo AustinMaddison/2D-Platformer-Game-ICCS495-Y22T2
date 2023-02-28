@@ -24,7 +24,7 @@ You play as Seven, who is escapee from a top secret research facility. The facil
 
 # Mechanics:   
 - **Movement**
-  - Run (WASD) ()
+  - Run 
   - Jump
 - **Combat**
   - Shooting
